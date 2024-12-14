@@ -1,0 +1,3 @@
+[submodule "Bayesian"]
+	path = Bayesian
+	url = git@github.com:songohwan/OMSCS.git
